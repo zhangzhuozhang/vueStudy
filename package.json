@@ -1,0 +1,23 @@
+{
+  "name": "vueStudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhuozhang/vueStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzhuozhang/vueStudy/issues"
+  },
+  "homepage": "https://github.com/zhangzhuozhang/vueStudy#readme",
+  "devDependencies":{
+      "gitbook-cli":"^2.3.2"
+   }
+}
